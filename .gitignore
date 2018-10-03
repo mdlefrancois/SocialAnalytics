@@ -1,0 +1,6 @@
+#ignore config.py file which houses the API key
+config.py
+
+.ipynb_checkpoints
+
+__pycache__
